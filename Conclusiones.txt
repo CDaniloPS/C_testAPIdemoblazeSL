@@ -1,0 +1,2 @@
+- Los escenarios solicitados fueron automatizados para el ambiente de pruebas a satisfacción.
+- la herramienta Karate facilita la automatización de APIs y tiene su propio reporte Html.
